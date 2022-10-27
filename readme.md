@@ -8,7 +8,7 @@
 >By Subrata
 
 -----
-#### Live Deployed Website : [here](https://streets-landingpage.netlify.app/)
+#### Live Deployed Website : [here](https://plants-home-pages.netlify.app/)
 
 ---
 ### What I learned from this Project?
