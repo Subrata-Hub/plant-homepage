@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Allerta';
+}
+
+#navbarMonstera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 50px;
+}
+
+#navMid {
+  display: flex;
+  gap: 50px;
+}
+
+#navEnd {
+  display: flex;
+  gap: 30px;
+}
+
+#midWhole {
+  display: flex;
+}
+
+#midWholePart1 {
+  position: absolute;
+  margin-left: 50px;
+  top: 200px;
+}
+
+#navMid div h4 {
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+#navMid div h4:hover {
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+#monstera {
+  font-family: "Allerta", sans-serif;
+  font-size: 150px;
+  font-weight: 900;
+}
+
+#midWholePart11 ul li:nth-child(2) {
+  position: relative;
+  margin-top: -40px;
+}
+
+#midWholePart11 ul li {
+  font-family: "Abel";
+  font-size: 18px;
+  font-weight: 500;
+  width: 85%;
+  line-break: auto;
+}
+
+li::marker {
+  color: black;
+  font-size: 1.3em;
+}
+
+#midWholePart12 {
+  margin-top: 40px;
+}
+
+#midWholePart121 {
+  display: flex;
+  background-color: green;
+  padding: 12px 30px;
+  width: 180px;
+  border-radius: 35px;
+}
+
+#midWholePart121 h1 {
+  color: #fff;
+  font-weight: 400;
+}
+
+#midWholePart122 {
+  margin-left: 12px;
+  margin-top: 7px;
+  height: 4px;
+}
+
+#midWholePart13 {
+  display: flex;
+  margin-top: 70px;
+  gap: 50px;
+}
+
+.midWholePart13Parts {
+  display: flex;
+}
+
+.midWholePart13Parts h4 {
+  font-family: "Allerta", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.midWholePart13Parts .text {
+  font-size: 11px;
+  width: 220px;
+}
+
+#feeding,
+#light,
+#care {
+  margin-right:10px;
+
+}
+
+#imgMain {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 87vh;
+  width: 35%;
+}
+
+
